@@ -1,0 +1,8 @@
+
+    console.log("hellow world" ,4+6 ,"exp");
+    // alert("its me");
+    console.error("first project");
+ var num1 = 34;
+ var num2 =45;
+
+ console.log(num1+ num2);
